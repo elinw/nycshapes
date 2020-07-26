@@ -1,0 +1,15 @@
+Package: nycdata
+Type: Package
+Title: Provides access to data about New York City
+Version: 0.1.0
+Author: Elin Waring
+Maintainer: Elin Waring <elin.waring@gmail.com>
+Description: Maps and access to data about NYC including simple feature
+    boundaries. 
+    Also includes some convenience functions.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+    maps,
+    RSocrata
